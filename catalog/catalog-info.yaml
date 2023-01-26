@@ -4,11 +4,11 @@ metadata:
   name: Backstage
   description: Kubernetes object & Pipelines List for Backstage
   annotations:
+    'azure.com/tag-selector':  backstageio/backstage
     'dev.azure.com/project': Research
     'dev.azure.com/build-definition': Devscope-Backstage.backstage
     'backstage.io/kubernetes-id': backstage
-    'azure.com/tag-selector': 60779f17-4fa4-4521-969b-e43513bccba8/backstage #note: azure-resource-plugin 'anotation':<key>/<value> maybe not currectly
-    'azure.com/microsoft-web-sites': backstage #note: azure-website-plugin 'anotation':<key>/<value> maybe not currectly  
+    'azure.com/microsoft-web-sites': backstage 
   links:
     - url: https://backstage-bonfim.devscope.net/
       title: Backstage URL
