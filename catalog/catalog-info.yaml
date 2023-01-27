@@ -8,7 +8,7 @@ metadata:
     'dev.azure.com/project': Research
     'dev.azure.com/build-definition': Devscope-Backstage.backstage
     'backstage.io/kubernetes-id': backstage
-    'azure.com/microsoft-web-sites': backstageio/sites 
+    'azure.com/microsoft-web-sites': backstage-sites 
   links:
     - url: https://backstage-bonfim.devscope.net/
       title: Backstage URL
